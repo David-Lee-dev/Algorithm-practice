@@ -1,7 +1,7 @@
 # SWEA algorism problem solution
 
 > This repository is record of algorism practice by Python
-
+> Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
 
 ## Dificulty 2
@@ -12,4 +12,5 @@
 - [파스칼의 삼각형(#2005)](https://github.com/JOOHYEON123/
 SWEA-solution/blob/master/D2/pascal_triangle.py)
 - [파리 퇴치(#2001)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/catch_fly.py)
+- [초심자의 회문 검사(#1989)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/palindrome.py)
 
