@@ -5,7 +5,7 @@
 > Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
 
-## Dificulty 2
+## My Dificulty 2 problem solution
 
 - [백만 장자 프로젝트(#1859)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/richman_project.py)
 - [간단한 369게임(#1926)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/simple_369game.py)
