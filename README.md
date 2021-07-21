@@ -1,6 +1,6 @@
 # SWEA algorism problem solution
 
-> This repository is report of algorism study
+> This repository is record of algorism practice by Python
 
 
 
