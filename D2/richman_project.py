@@ -13,3 +13,4 @@ for i in range(T):
             now_max = days[j]
 
     print('#{} {}'.format(i+1, answer))
+    
