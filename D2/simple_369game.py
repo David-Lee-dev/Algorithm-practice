@@ -16,3 +16,4 @@ for i in range(1, int(N)+1):
             break
         i = str(i)
     print(i, end=' ')
+    
