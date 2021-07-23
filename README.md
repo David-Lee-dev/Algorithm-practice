@@ -16,3 +16,4 @@
 - [지그재그 숫자(#1986)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/zigzag.py)
 - [중간 평균값 구하기(#1984)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/middle_average.py)
 - [달팽이 숫자(#1954)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/sanil_number.py)
+- [조교의 성적 매기기(#1983)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/make_grade.py)
