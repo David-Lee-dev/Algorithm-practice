@@ -17,3 +17,4 @@
 - [중간 평균값 구하기(#1984)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/middle_average.py)
 - [달팽이 숫자(#1954)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/sanil_number.py)
 - [조교의 성적 매기기(#1983)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/make_grade.py)
+- [어디에 단어가 들어갈 수 있을까(#1983)](https://github.com/JOOHYEON123/SWEA-solution/blob/master/D2/where_word.py)
