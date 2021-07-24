@@ -1,6 +1,12 @@
 # My solution about algorithm problems
 
-> This repository is record of algorithm practice by Python
+> This repository is record of algorithm practice by Python.
+>
+> There are Only codes.
+>
+> To view the problem, you must click ``Source of problem`` to find that.
+>
+> I can't share contents of problem because of copyright
 
 ---
 
