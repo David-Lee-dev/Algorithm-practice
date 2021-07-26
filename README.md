@@ -38,7 +38,18 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 
 ### Level 1
 - [로또의 최고 순위와 취저 순위](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/lotto_best_worst.py)
+
 - [체육복](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/number_string.py)
+
 - [폰켓몬](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/phoneketmon.py)
+
 - [숫자 문자열과 영단어](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/training_uniform.py)
+
 - [K번째 수](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/number_K.py)
+
+- [모의고사](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/test.py)
+
+  
+
+
+
