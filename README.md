@@ -1,6 +1,6 @@
 # My solution about algorithm problems
 
-> This repository is record of algorithm practice by Python.
+> This repository is record of algorithm practice by **Python**.
 >
 > There are Only codes.
 >
@@ -41,3 +41,4 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [체육복](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/number_string.py)
 - [폰켓몬](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/phoneketmon.py)
 - [숫자 문자열과 영단어](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/training_uniform.py)
+- [K번째 수](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/number_K.py)
