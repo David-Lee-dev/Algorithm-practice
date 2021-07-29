@@ -49,6 +49,8 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 
 - [모의고사](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/test.py)
 
+- [크레인 인형뽑기](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/Level1/take_doll.py)
+
   
 
 
