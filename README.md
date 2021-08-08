@@ -24,11 +24,15 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [초심자의 회문 검사(#1989)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/palindrome.py)
 - [지그재그 숫자(#1986)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/zigzag.py)
 - [중간 평균값 구하기(#1984)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/middle_average.py)
-- [달팽이 숫자(#1954)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/sanil_number.py)
 - [조교의 성적 매기기(#1983)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/make_grade.py)
 - [어디에 단어가 들어갈 수 있을까(#1983)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/where_word.py)
 - [시각 덧셈(#1976)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/time_plus.py)
 - [스도쿠 검증(#1974)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/check_sudoku.py)
+- [쉬운 거스름돈(#1970)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/easy_change.py)
+- [숫자를 정렬하자(#1966)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/sort_number.py)
+- [숫자 배열 회전(#1961)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/rotate_array.py)
+- [두개의 숫자열(#1959)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/two_array.py)
+- [달팽이 숫자(#1954)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/sanil_number.py)
 
 
 
