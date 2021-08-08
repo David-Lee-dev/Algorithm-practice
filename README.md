@@ -33,7 +33,10 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [숫자 배열 회전(#1961)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/rotate_array.py)
 - [두개의 숫자열(#1959)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/two_array.py)
 - [달팽이 숫자(#1954)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/sanil_number.py)
-
+- [날짜 계산기(#1948)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/date_calculator.py)
+- [간단한 압축풀기(#1946)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/date_calculator.py)
+- [간단한 소인수분해(#1945)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/simple_factorization.py)
+- [가랏! RC카!(#1940)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/go_RCcar.py)
 
 
 
