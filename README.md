@@ -38,7 +38,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [간단한 소인수분해(#1945)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/simple_factorization.py)
 - [가랏! RC카!(#1940)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/go_RCcar.py)
 - [Base64 Decoder(#1928)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/Base64_decoder.py)
-
+- [새로운 불면증 치료법(#1288)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/insomnia_treatment.py)
 
 
 
