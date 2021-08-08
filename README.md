@@ -40,6 +40,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [Base64 Decoder(#1928)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/Base64_decoder.py)
 - [새로운 불면증 치료법(#1288)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/insomnia_treatment.py)
 - [수도 요금 경쟁(#1284)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/tax.py)
+- [최빈수 구하기(#1204)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/least_number.py)
 
 
 
