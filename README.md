@@ -42,6 +42,8 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [수도 요금 경쟁(#1284)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/tax.py)
 - [최빈수 구하기(#1204)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/least_number.py)
 
+### Difficulty 2 problem solution
+- [View(#1206)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/shine_view.py)
 
 
 
