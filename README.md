@@ -41,10 +41,13 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [새로운 불면증 치료법(#1288)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/insomnia_treatment.py)
 - [수도 요금 경쟁(#1284)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/tax.py)
 - [최빈수 구하기(#1204)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/least_number.py)
+- [min_max(#4828)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/min_max.py)
+- [숫자 카드(#4834)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/number_card.py)
+- [구간합(#4835)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/area_sum.py)
 
-### Difficulty 2 problem solution
-- [View(#1206)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D2/shine_view.py)
-
+### Difficulty 3 problem solution
+- [View(#1206)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D3/shine_view.py)
+- [전기 버스(#4831)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D3/electric_bus.py)
 
 
 ## Programmers
