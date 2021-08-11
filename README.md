@@ -50,6 +50,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [전기 버스(#4831)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D3/electric_bus.py)
 - [현주의 상자 바꾸기(#5789)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D3/box_change.py)
 - [Flatten(#1208)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D3/flatten.py)
+- [Sum(#1208)](https://github.com/JOOHYEON123/Algorithm-practice/blob/master/D3/Sum.py)
 
 
 ## Programmers
