@@ -44,6 +44,8 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [min_max(#4828)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/min_max.py)
 - [숫자 카드(#4834)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/number_card.py)
 - [구간합(#4835)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/area_sum.py)
+- [색칠하기(#4836)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/painting.py)
+- [이진탐색(#4839)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/binary_search.py)
 
 ### Difficulty 3 problem solution
 - [View(#1206)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/shine_view.py)
@@ -51,6 +53,8 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [현주의 상자 바꾸기(#5789)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/box_change.py)
 - [Flatten(#1208)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/flatten.py)
 - [Sum(#1208)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/Sum.py)
+- [부분집합의 합(#4837)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/part_sum.py)
+- [특별한 정렬(#4843)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/special_sort.py)
 
 
 ## Programmers
