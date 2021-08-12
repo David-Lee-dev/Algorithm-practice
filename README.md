@@ -25,7 +25,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [지그재그 숫자(#1986)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/zigzag.py)
 - [중간 평균값 구하기(#1984)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/middle_average.py)
 - [조교의 성적 매기기(#1983)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/make_grade.py)
-- [어디에 단어가 들어갈 수 있을까(#1983)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/where_word.py)
+- [어디에 단어가 들어갈 수 있을까(#1979)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/where_word.py)
 - [시각 덧셈(#1976)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/time_plus.py)
 - [스도쿠 검증(#1974)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/check_sudoku.py)
 - [쉬운 거스름돈(#1970)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/easy_change.py)
@@ -56,6 +56,8 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [부분집합의 합(#4837)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/part_sum.py)
 - [특별한 정렬(#4843)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/special_sort.py)
 
+### Difficulty 3 problem solution
+- [특별한 정렬(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.py)
 
 ## Programmers
 
