@@ -57,7 +57,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [특별한 정렬(#4843)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/special_sort.py)
 
 ### Difficulty 3 problem solution
-- [특별한 정렬(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.py)
+- [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.py)
 
 ## Programmers
 
