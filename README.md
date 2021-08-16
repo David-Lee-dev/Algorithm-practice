@@ -55,8 +55,9 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [Sum(#1208)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/Sum.py)
 - [부분집합의 합(#4837)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/part_sum.py)
 - [특별한 정렬(#4843)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/special_sort.py)
+- [GNS(#1221)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/GNS.py)
 
-### Difficulty 3 problem solution
+### Difficulty 4 problem solution
 - [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.py)
 
 ## Programmers
