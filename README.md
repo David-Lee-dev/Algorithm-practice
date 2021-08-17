@@ -46,6 +46,9 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [구간합(#4835)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/area_sum.py)
 - [색칠하기(#4836)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/painting.py)
 - [이진탐색(#4839)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/binary_search.py)
+- [문자열 비교(#4864)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/binary_search.py)
+- [회문(#4861)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/palirn_matrix.py)
+- [글자수(#4865)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/word_number.py)
 
 ### Difficulty 3 problem solution
 - [View(#1206)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/shine_view.py)
