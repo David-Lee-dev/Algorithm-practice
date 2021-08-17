@@ -46,7 +46,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [구간합(#4835)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/area_sum.py)
 - [색칠하기(#4836)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/painting.py)
 - [이진탐색(#4839)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/binary_search.py)
-- [문자열 비교(#4864)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/binary_search.py)
+- [문자열 비교(#4864)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/string_compare.py)
 - [회문(#4861)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/palirn_matrix.py)
 - [글자수(#4865)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/word_number.py)
 
@@ -63,6 +63,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 
 ### Difficulty 4 problem solution
 - [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.py)
+- [가장 빠른 문자열 타이핑(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/fastest_string.py)
 
 ## Programmers
 
