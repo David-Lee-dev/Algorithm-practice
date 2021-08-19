@@ -65,6 +65,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [GNS(#1221)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/GNS.py)
 - [String(#1213)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/String.py)
 - [회문2(#1216)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/palindrome2.py)
+- [회문2(#1234)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/password.py)
 
 ### Difficulty 4 problem solution
 - [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.py)
@@ -72,6 +73,8 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [쇠막대기 자르기(#5432)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/cut_pipe.py)
 - [삼성시의 버스 노선(#6485)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/samsung_bus.py)
 - [의석이의 세로로 말해요(#5356)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/tell_column.py)
+- [길찾기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/navigation.py)
+- [자기 방으로 들어가기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/go_room.py)
 
 ---
 
