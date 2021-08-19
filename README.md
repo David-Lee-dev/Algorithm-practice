@@ -1,12 +1,12 @@
 # My solution about algorithm problems
 
-> This repository is record of algorithm practice by **Python**.
+> This repository is record of algorithm practice by **mdthon**.
 >
 > There are Only codes.
 >
 > To view the problem, you must click ``Source of problem`` to find that.
 >
-> I can't share contents of problem because of copyright
+> I can't share contents of problem because of comdright
 
 ---
 
@@ -16,65 +16,65 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 
 ### Difficulty 2 problem solution
 
-- [백만 장자 프로젝트(#1859)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/richman_project.py)
-- [간단한 369게임(#1926)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/simple_369game.py)
-- [패턴마디의 길이(#2007)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/pattern_length.py)
-- [파스칼의 삼각형(#2005)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/pascal_triangle.py)
-- [파리 퇴치(#2001)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/catch_fly.py)
-- [초심자의 회문 검사(#1989)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/palindrome.py)
-- [지그재그 숫자(#1986)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/zigzag.py)
-- [중간 평균값 구하기(#1984)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/middle_average.py)
-- [조교의 성적 매기기(#1983)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/make_grade.py)
-- [어디에 단어가 들어갈 수 있을까(#1979)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/where_word.py)
-- [시각 덧셈(#1976)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/time_plus.py)
-- [스도쿠 검증(#1974)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/check_sudoku.py)
-- [쉬운 거스름돈(#1970)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/easy_change.py)
-- [숫자를 정렬하자(#1966)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/sort_number.py)
-- [숫자 배열 회전(#1961)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/rotate_array.py)
-- [두개의 숫자열(#1959)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/two_array.py)
-- [달팽이 숫자(#1954)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/sanil_number.py)
-- [날짜 계산기(#1948)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/date_calculator.py)
-- [간단한 압축풀기(#1946)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/date_calculator.py)
-- [간단한 소인수분해(#1945)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/simple_factorization.py)
-- [가랏! RC카!(#1940)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/go_RCcar.py)
-- [Base64 Decoder(#1928)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/Base64_decoder.py)
-- [새로운 불면증 치료법(#1288)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/insomnia_treatment.py)
-- [수도 요금 경쟁(#1284)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/tax.py)
-- [최빈수 구하기(#1204)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/least_number.py)
-- [min_max(#4828)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/min_max.py)
-- [숫자 카드(#4834)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/number_card.py)
-- [구간합(#4835)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/area_sum.py)
-- [색칠하기(#4836)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/painting.py)
-- [이진탐색(#4839)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/binary_search.py)
-- [문자열 비교(#4864)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/string_compare.py)
-- [회문(#4861)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/palirn_matrix.py)
-- [글자수(#4865)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/word_number.py)
-- [종이붙이기(#4869)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/attatch_paper.py)
-- [괄호검사(#4866)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/basket_check.py)
-- [그래프 경로(#4871)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/graph_route.py)
-- [반복문자 지우기(#4873)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/remove_repeat.py)
+- [백만 장자 프로젝트(#1859)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/richman_project.md)
+- [간단한 369게임(#1926)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/simple_369game.md)
+- [패턴마디의 길이(#2007)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/pattern_length.md)
+- [파스칼의 삼각형(#2005)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/pascal_triangle.md)
+- [파리 퇴치(#2001)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/catch_fly.md)
+- [초심자의 회문 검사(#1989)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/palindrome.md)
+- [지그재그 숫자(#1986)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/zigzag.md)
+- [중간 평균값 구하기(#1984)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/middle_average.md)
+- [조교의 성적 매기기(#1983)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/make_grade.md)
+- [어디에 단어가 들어갈 수 있을까(#1979)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/where_word.md)
+- [시각 덧셈(#1976)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/time_plus.md)
+- [스도쿠 검증(#1974)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/check_sudoku.md)
+- [쉬운 거스름돈(#1970)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/easy_change.md)
+- [숫자를 정렬하자(#1966)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/sort_number.md)
+- [숫자 배열 회전(#1961)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/rotate_array.md)
+- [두개의 숫자열(#1959)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/two_array.md)
+- [달팽이 숫자(#1954)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/sanil_number.md)
+- [날짜 계산기(#1948)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/date_calculator.md)
+- [간단한 압축풀기(#1946)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/simple_unzip.md)
+- [간단한 소인수분해(#1945)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/simple_factorization.md)
+- [가랏! RC카!(#1940)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/go_RCcar.md)
+- [Base64 Decoder(#1928)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/Base64_decoder.md)
+- [새로운 불면증 치료법(#1288)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/insomnia_treatment.md)
+- [수도 요금 경쟁(#1284)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/tax.md)
+- [최빈수 구하기(#1204)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/least_number.md)
+- [min_max(#4828)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/min_max.md)
+- [숫자 카드(#4834)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/number_card.md)
+- [구간합(#4835)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/area_sum.md)
+- [색칠하기(#4836)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/painting.md)
+- [이진탐색(#4839)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/binary_search.md)
+- [문자열 비교(#4864)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/string_compare.md)
+- [회문(#4861)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/palirn_matrix.md)
+- [글자수(#4865)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/word_number.md)
+- [종이붙이기(#4869)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/attatch_paper.md)
+- [괄호검사(#4866)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/basket_check.md)
+- [그래프 경로(#4871)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/graph_route.md)
+- [반복문자 지우기(#4873)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/remove_repeat.md)
 
 ### Difficulty 3 problem solution
-- [View(#1206)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/shine_view.py)
-- [전기 버스(#4831)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/electric_bus.py)
-- [현주의 상자 바꾸기(#5789)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/box_change.py)
-- [Flatten(#1208)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/flatten.py)
-- [Sum(#1208)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/Sum.py)
-- [부분집합의 합(#4837)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/part_sum.py)
-- [특별한 정렬(#4843)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/special_sort.py)
-- [GNS(#1221)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/GNS.py)
-- [String(#1213)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/String.py)
-- [회문2(#1216)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/palindrome2.py)
-- [회문2(#1234)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/password.py)
+- [View(#1206)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/shine_view.md)
+- [전기 버스(#4831)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/electric_bus.md)
+- [현주의 상자 바꾸기(#5789)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/box_change.md)
+- [Flatten(#1208)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/flatten.md)
+- [Sum(#1208)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/Sum.md)
+- [부분집합의 합(#4837)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/part_sum.md)
+- [특별한 정렬(#4843)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/special_sort.md)
+- [GNS(#1221)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/GNS.md)
+- [String(#1213)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/String.md)
+- [회문2(#1216)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/palindrome2.md)
+- [비밀번호(#1234)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/password.md)
+- [삼성시의 버스 노선(#6485)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/samsung_bus.md)
+- [의석이의 세로로 말해요(#5356)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/tell_column.md)
 
 ### Difficulty 4 problem solution
-- [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.py)
-- [가장 빠른 문자열 타이핑(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/fastest_string.py)
-- [쇠막대기 자르기(#5432)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/cut_pipe.py)
-- [삼성시의 버스 노선(#6485)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/samsung_bus.py)
-- [의석이의 세로로 말해요(#5356)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/tell_column.py)
-- [길찾기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/navigation.py)
-- [자기 방으로 들어가기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/go_room.py)
+- [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.md)
+- [가장 빠른 문자열 타이핑(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/fastest_string.md)
+- [쇠막대기 자르기(#5432)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/cut_pipe.md)
+- [길찾기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/navigation.md)
+- [자기 방으로 들어가기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/go_room.md)
 
 ---
 
@@ -83,13 +83,13 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 Source of problem : [Programmers](https://programmers.co.kr/)
 
 ### Level 1
-- [로또의 최고 순위와 취저 순위](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/lotto_best_worst.py)
-- [체육복](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/number_string.py)
-- [폰켓몬](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/phoneketmon.py)
-- [숫자 문자열과 영단어](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/training_uniform.py)
-- [K번째 수](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/number_K.py)
-- [모의고사](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/test.py)
-- [크레인 인형뽑기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/take_doll.py)
+- [로또의 최고 순위와 취저 순위](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/lotto_best_worst.md)
+- [체육복](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/training_uniform.md)
+- [폰켓몬](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/phoneketmon.md)
+- [숫자 문자열과 영단어](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/number_string.md)
+- [K번째 수](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/number_K.md)
+- [모의고사](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/test.md)
+- [크레인 인형뽑기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/take_doll.md)
 
   
 
