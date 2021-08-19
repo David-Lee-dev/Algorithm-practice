@@ -49,6 +49,10 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [문자열 비교(#4864)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/string_compare.py)
 - [회문(#4861)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/palirn_matrix.py)
 - [글자수(#4865)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/word_number.py)
+- [종이붙이기(#4869)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/attatch_paper.py)
+- [괄호검사(#4866)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/basket_check.py)
+- [그래프 경로(#4871)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/graph_route.py)
+- [반복문자 지우기(#4873)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/remove_repeat.py)
 
 ### Difficulty 3 problem solution
 - [View(#1206)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/shine_view.py)
