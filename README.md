@@ -13,9 +13,8 @@
 ## SWEA
 
 Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do)
-
+<br />
 ### Difficulty 2 problem solution
-
 - [백만 장자 프로젝트(#1859)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/richman_project.md)
 - [간단한 369게임(#1926)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/simple_369game.md)
 - [패턴마디의 길이(#2007)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/pattern_length.md)
@@ -53,7 +52,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [괄호검사(#4866)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/basket_check.md)
 - [그래프 경로(#4871)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/graph_route.md)
 - [반복문자 지우기(#4873)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/remove_repeat.md)
-
+<br /><br />
 ### Difficulty 3 problem solution
 - [View(#1206)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/shine_view.md)
 - [전기 버스(#4831)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/electric_bus.md)
@@ -69,16 +68,17 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [삼성시의 버스 노선(#6485)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/samsung_bus.md)
 - [의석이의 세로로 말해요(#5356)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/tell_column.md)
 - [농작물 수확하기(#2805)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/farming.md)
-
+<br /><br />
 ### Difficulty 4 problem solution
 - [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.md)
 - [가장 빠른 문자열 타이핑(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/fastest_string.md)
 - [쇠막대기 자르기(#5432)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/cut_pipe.md)
 - [길찾기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/navigation.md)
 - [자기 방으로 들어가기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/go_room.md)
+- [계산기2(#1223)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/calculator2.md)
 
 ---
-
+<br /><br />
 ## Programmers
 
 Source of problem : [Programmers](https://programmers.co.kr/)
