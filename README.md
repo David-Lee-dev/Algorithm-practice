@@ -52,7 +52,13 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [괄호검사(#4866)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/basket_check.md)
 - [그래프 경로(#4871)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/graph_route.md)
 - [반복문자 지우기(#4873)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/remove_repeat.md)
+- [Forth(#4874)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/Forth.md)
+- [미로(#4875)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/maze.md)
+- [토너먼트 카드게임(#4880)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/tournament.md)
+- [배열 최소 합(#4881)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/arr_min.md)
+
 <br /><br />
+
 ### Difficulty 3 problem solution
 - [View(#1206)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/shine_view.md)
 - [전기 버스(#4831)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/electric_bus.md)
@@ -76,9 +82,11 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [길찾기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/navigation.md)
 - [자기 방으로 들어가기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/go_room.md)
 - [계산기2(#1223)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/calculator2.md)
+- [계산기3(#1224)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/calculator3.md)
 
 ---
 <br /><br />
+
 ## Programmers
 
 Source of problem : [Programmers](https://programmers.co.kr/)
