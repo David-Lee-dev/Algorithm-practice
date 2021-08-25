@@ -74,6 +74,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [삼성시의 버스 노선(#6485)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/samsung_bus.md)
 - [의석이의 세로로 말해요(#5356)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/tell_column.md)
 - [농작물 수확하기(#2805)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/farming.md)
+- [암호생성기(#1225)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/pwd_maker.md)
 <br /><br />
 ### Difficulty 4 problem solution
 - [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.md)
