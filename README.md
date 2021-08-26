@@ -86,6 +86,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [자기 방으로 들어가기(#1219)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/go_room.md)
 - [계산기2(#1223)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/calculator2.md)
 - [계산기3(#1224)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/calculator3.md)
+- [미로1(#1226)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/maze1.md)
 
 ---
 <br /><br />
