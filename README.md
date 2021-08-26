@@ -57,7 +57,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [토너먼트 카드게임(#4880)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/tournament.md)
 - [배열 최소 합(#4881)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/arr_min.md)
 - [회전(#5097)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/rotation.md)
-- [노드의 거리(#5105)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/node_distance.md)
+- [노드의 거리(#5102)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/node_distance.md)
 <br /><br />
 ### Difficulty 3 problem solution
 - [View(#1206)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/shine_view.md)
@@ -76,7 +76,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [농작물 수확하기(#2805)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/farming.md)
 - [암호생성기(#1225)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/pwe_maker.md)
 - [피자굽기(#5099)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/make_pizza.md)
-- [미로의 거리(#5102)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/maze_distance.md)
+- [미로의 거리(#5105)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/maze_distance.md)
 <br /><br />
 ### Difficulty 4 problem solution
 - [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.md)
