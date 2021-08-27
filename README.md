@@ -77,6 +77,8 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [암호생성기(#1225)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/pwe_maker.md)
 - [피자굽기(#5099)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/make_pizza.md)
 - [미로의 거리(#5105)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/maze_distance.md)
+- [Magnetic(#1220)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/Magnetic.md)
+- [정곤이의 단조 증가하는 수(#6190)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/JG_number.md)
 <br /><br />
 ### Difficulty 4 problem solution
 - [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.md)
@@ -87,6 +89,8 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [계산기2(#1223)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/calculator2.md)
 - [계산기3(#1224)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/calculator3.md)
 - [미로1(#1226)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/maze1.md)
+- [중위순회(#1231)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/in_order_tree.md)
+- [러시아 국기 같은 깃발(#4613)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/russia_flag.md)
 
 ---
 <br /><br />
