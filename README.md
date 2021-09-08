@@ -1,6 +1,6 @@
 # My solution about algorithm problems
 
-> This repository is record of algorithm practice by **mdthon**.
+> This repository is record of algorithm practice
 >
 > There are Only codes.
 >
@@ -10,7 +10,7 @@
 
 ---
 
-## SWEA
+## SWEA - python
 
 Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 <br />
@@ -79,6 +79,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [미로의 거리(#5105)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/maze_distance.md)
 - [Magnetic(#1220)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/Magnetic.md)
 - [정곤이의 단조 증가하는 수(#6190)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/JG_number.md)
+- [진기의 최고급 붕어빵(#1860)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/JG_bread.md)
 <br /><br />
 ### Difficulty 4 problem solution
 - [ladder1(#1210)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/ladder1.md)
@@ -94,7 +95,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 
 ---
 <br /><br />
-## Programmers
+## Programmers - python
 
 Source of problem : [Programmers](https://programmers.co.kr/)
 
@@ -107,7 +108,15 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [모의고사](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/test.md)
 - [크레인 인형뽑기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/take_doll.md)
 
-  
+---
+
+<br /><br />
+
+## Programmers - java script
+
+Source of problem : [Programmers](https://programmers.co.kr/)
+
+### Level 1
 
 
 
