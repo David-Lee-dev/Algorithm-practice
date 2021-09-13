@@ -6,14 +6,29 @@
 >
 > To view the problem, you must click ``Source of problem`` to find that.
 >
-> I can't share contents of problem because of comdright
+> I can't share contents of problem because of copyright
 
 ---
+
+## Programmers - java script
+
+Source of problem : [Programmers](https://programmers.co.kr/)
+
+### Level 1
+
+- [로또의 최고 순위와 취저 순위](https://velog.io/@main_string/Level1-%EB%A1%9C%EB%98%90%EC%9D%98-%EC%B5%9C%EA%B3%A0-%EC%88%9C%EC%9C%84%EC%99%80-%EC%B5%9C%EC%A0%80-%EC%88%9C%EC%9C%84)
+
+---
+
+<br>
+
+<br>
 
 ## SWEA - python
 
 Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 <br />
+
 ### Difficulty 2 problem solution
 - [백만 장자 프로젝트(#1859)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/richman_project.md)
 - [간단한 369게임(#1926)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D2/simple_369game.md)
@@ -107,16 +122,4 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [K번째 수](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/number_K.md)
 - [모의고사](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/test.md)
 - [크레인 인형뽑기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/take_doll.md)
-
----
-
-<br /><br />
-
-## Programmers - java script
-
-Source of problem : [Programmers](https://programmers.co.kr/)
-
-### Level 1
-
-
 
