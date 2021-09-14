@@ -16,7 +16,8 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 
 ### Level 1
 
-- [로또의 최고 순위와 취저 순위](https://velog.io/@main_string/Level1-%EB%A1%9C%EB%98%90%EC%9D%98-%EC%B5%9C%EA%B3%A0-%EC%88%9C%EC%9C%84%EC%99%80-%EC%B5%9C%EC%A0%80-%EC%88%9C%EC%9C%84)
+- [로또의 최고 순위와 취저 순위](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/lotto_best_worst_JS.md)
+- [신규 아이디 추천](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/new_id_recomend_JS.md)
 
 ---
 
