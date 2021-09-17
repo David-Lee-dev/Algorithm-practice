@@ -1,4 +1,4 @@
-# My solution about algorithm problems
+# A Solution about algorithm problems
 
 > This repository is record of algorithm practice
 >
