@@ -20,6 +20,8 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [신규 아이디 추천](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/new_id_recomend_JS.md)
 - [숫자 문자열과 영단어](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/numstring_word_JS.md)
 - [키패드 누르기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/keypad_JS.md)
+- [없는 수자 더하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/no_number_JS.md)
+- 
 
 ---
 
