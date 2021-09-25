@@ -121,6 +121,8 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [중위순회(#1231)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/in_order_tree.md)
 - [러시아 국기 같은 깃발(#4613)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/russia_flag.md)
 - [사칙연산(#1232)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/calculator_tree.md)
+- [등산로 조성(#1949)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/trekking_course.md)
+- 
 
 ---
 <br /><br />
