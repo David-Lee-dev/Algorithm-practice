@@ -106,6 +106,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 - [정곤이의 단조 증가하는 수(#6190)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/JG_number.md)
 - [진기의 최고급 붕어빵(#1860)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/JG_bread.md)
 - [노드의 합(#5178)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/node_sum.md)
+- [단순 2진 암호코드(#1240)](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/simple_2_code.md)
 
 <br /><br />
 
