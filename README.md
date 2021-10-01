@@ -127,7 +127,8 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 |   1860    | [진기의 최고급 붕어빵](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/JG_bread.md) |
 |   5178    | [노드의 합](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/node_sum.md) |
 |   1240    | [단순 2진 암호코드](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/simple_2_code.md) |
-|   1240    | [이진수 표현](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/binary_exp.md) |
+|   10726   | [이진수 표현](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/binary_exp.md) |
+|   1244    | [최대 상금](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/max_rewards.md) |
 
 <br /><br />
 
