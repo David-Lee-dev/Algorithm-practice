@@ -129,6 +129,11 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 |   1240    | [단순 2진 암호코드](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/simple_2_code.md) |
 |   10726   | [이진수 표현](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/binary_exp.md) |
 |   1244    | [최대 상금](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/max_rewards.md) |
+|   5188    | [최소합](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/minimum_sum.md) |
+|   5189    | [전자카트](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/elec_cart.md) |
+|   5201    | [컨테이너운반](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/container_carry.md) |
+|   5202    | [화물 도크](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/container_dock.md) |
+|   5203    | [베이비진 게임](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/babyjin_game.md) |
 
 <br /><br />
 
