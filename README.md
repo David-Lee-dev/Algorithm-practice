@@ -134,6 +134,10 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 |   5201    | [컨테이너운반](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/container_carry.md) |
 |   5202    | [화물 도크](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/container_dock.md) |
 |   5203    | [베이비진 게임](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/babyjin_game.md) |
+|   5205    | [퀵 정렬](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/quick_sort.md) |
+|   5207    | [이진 탐색](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/binary_search.md) |
+|   5208    | [전기버스2](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/elec_bus2.md) |
+|   5209    | [최소 생산 비용](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/min_make_cost.md) |
 
 <br /><br />
 
@@ -153,5 +157,6 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 |   4613   | [러시아 국기 같은 깃발](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/russia_flag.md) |
 |   1232   | [사칙연산](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/calculator_tree.md) |
 |   1949   | [등산로 조성](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/trekking_course.md) |
+|   1865   | [동철이의 일 분배](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/seper_task.md) |
 
 ---
