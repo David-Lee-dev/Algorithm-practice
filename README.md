@@ -158,5 +158,8 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 |   1232   | [사칙연산](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/calculator_tree.md) |
 |   1949   | [등산로 조성](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/trekking_course.md) |
 |   1865   | [동철이의 일 분배](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/seper_task.md) |
+|   4366   | [정식이의 은행업무](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/bank_task.md) |
+|   2819   | [격자판의 숫자 이어 붙이기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/matrix_number.md) |
+|   1861   | [정사각형 방](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/squre_room.md) |
 
 ---
