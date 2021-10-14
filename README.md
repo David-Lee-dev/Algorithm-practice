@@ -138,6 +138,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 |   5207    | [이진 탐색](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/binary_search.md) |
 |   5208    | [전기버스2](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/elec_bus2.md) |
 |   5209    | [최소 생산 비용](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/min_make_cost.md) |
+|   5248    | [그룹 나누기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D3/division.md) |
 
 <br /><br />
 
