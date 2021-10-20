@@ -16,6 +16,10 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [키패드 누르기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/keypad_JS.md)
 - [없는 숫자 더하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/no_number_JS.md)
 - [음양 더하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/true_false_puls_JS.md)
+- [크레인 인형 뽑기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/tack_doll_JS.md)
+- [소수 만들기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/coprime_JS.md)
+
+
 
 <br><br>
 
@@ -162,5 +166,7 @@ Source of problem : [SW Expert Academy](https://swexpertacademy.com/main/main.do
 |   4366   | [정식이의 은행업무](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/bank_task.md) |
 |   2819   | [격자판의 숫자 이어 붙이기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/matrix_number.md) |
 |   1861   | [정사각형 방](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/squre_room.md) |
+|   5249   | [최소 신장 트리](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/D4/MST.md) |
+|          |                                                              |
 
 ---
