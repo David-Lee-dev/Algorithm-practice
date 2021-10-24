@@ -18,6 +18,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [음양 더하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/true_false_puls_JS.md)
 - [크레인 인형 뽑기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/tack_doll_JS.md)
 - [소수 만들기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/coprime_JS.md)
+- [완주하지 못한 선수](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/maraton_JS.md)
 
 
 
