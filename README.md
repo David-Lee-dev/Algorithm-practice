@@ -20,8 +20,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [소수 만들기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/coprime_JS.md)
 - [완주하지 못한 선수](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/maraton_JS.md)
 - [체육복](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/tranning_JS.md)
-
-
+- [포켓몬](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/pocketmon_JS.md)
 
 <br><br>
 
