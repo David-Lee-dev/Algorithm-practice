@@ -4,6 +4,32 @@
 
 ---
 
+## Beakjoon - Python
+
+- [2021.08.03. #11399](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b11399.md)
+- [2021.08.04. #15904](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b15904.md)
+- [2021.08.05. #5585](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b5585.md)
+- [2021.08.06. #2839](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b2839.md)
+- [2021.08.07. #10162](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b10162.md)
+- [2021.08.08. #1789](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b1789.md)
+- [2021.08.09. #1541](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b1541.md)
+- [2021.08.10. #2872](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b2872.md)
+- [2021.08.11. #13305](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b13305.md)
+- [2021.08.12. #11047](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b11047.md)
+- [2021.08.13. #12782](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b12782.md)
+- [2021.08.17. #2217](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b2217.md)
+- [2021.08.17. #16953](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b16953.md)
+- [2021.08.18. #17609](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b17609.md)
+- [2021.08.18. #11497](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b11497.md)
+- [2021.08.18. #17608](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b17608.md)
+- [2021.08.19. #10845](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b10845.md)
+- [2021.08.20. #12605](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b12605.md)
+- [2021.08.21. #1158](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b1158.md)
+- [2021.08.21. #10773](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b10773.md)
+- [2021.08.23. #2164](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b2164.md)
+
+<br><br>
+
 ## Programmers - java script
 
 Source of problem : [Programmers](https://programmers.co.kr/)
@@ -21,6 +47,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [완주하지 못한 선수](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/maraton_JS.md)
 - [체육복](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/tranning_JS.md)
 - [포켓몬](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/pocketmon_JS.md)
+- [실패율](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/fail_JS.md)
 
 <br><br>
 
@@ -38,13 +65,9 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [모의고사](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/test.md)
 - [크레인 인형뽑기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/take_doll.md)
 
-
+<br><br>
 
 ---
-
-<br>
-
-<br>
 
 ## SWEA - python
 
