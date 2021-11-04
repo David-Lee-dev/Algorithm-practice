@@ -6,6 +6,12 @@
 
 ## Beakjoon - Python
 
+- [2021.11.04. #12605](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b12605_java.md)
+
+<br><br>
+
+## Beakjoon - Python
+
 - [2021.08.03. #11399](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b11399.md)
 - [2021.08.04. #15904](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b15904.md)
 - [2021.08.05. #5585](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b5585.md)
