@@ -212,3 +212,5 @@ $RECYCLE.BIN/
 test.py
 input.txt
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,jupyternotebooks,windows,python,venv
+index.html
+main.js
