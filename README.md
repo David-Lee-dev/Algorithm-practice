@@ -4,11 +4,12 @@
 
 ---
 
-## Beakjoon - Python
+## Beakjoon - Java
 
 - [2021.11.04. #12605](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b12605_java.md)
 - [2021.11.06. #1158](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b1158_java.md)
 - [2021.11.06. #10773](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b10773_java.md)
+- [2021.11.10. #12034](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b10773_java.md)
 
 <br><br>
 
