@@ -26,7 +26,8 @@
 - [2021.12.21. #9934](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b9934_java.md)
 - [2021.12.22. #3584](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b3584_java.md)
 - [2021.12.23. #20364](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b20364_java.md)
-- [2021.12.23. #17073](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b17073_java.md)
+- [2021.12.24. #17073](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b17073_java.md)
+- [2021.12.27. #1946](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b1946_java.md)
   <br><br>
 
 ## Beakjoon - Python
