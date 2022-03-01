@@ -6,6 +6,7 @@
 
 ## Beakjoon - Java
 
+- [2021.03.02 #1325](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b1325_java.md)
 - [2021.02.24. #20058](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b20058_java.md)
 - [2021.02.23. #1966](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b1966_java.md)
 - [2021.02.22. #17225](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b17225_java.md)
