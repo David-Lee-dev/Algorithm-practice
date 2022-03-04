@@ -96,6 +96,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 
 ### Level 1
 
+- [신고 결과 받기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/신고결과받기_JS.md)
 - [로또의 최고 순위와 취저 순위](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/lotto_best_worst_JS.md)
 - [신규 아이디 추천](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/new_id_recomend_JS.md)
 - [숫자 문자열과 영단어](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/numstring_word_JS.md)
@@ -108,7 +109,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [체육복](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/tranning_JS.md)
 - [포켓몬](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/pocketmon_JS.md)
 - [실패율](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/fail_JS.md)
-- [두 개 뽑아서 더하기]](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/two_plus_JS.md)
+- [두 개 뽑아서 더하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/two_plus_JS.md)
 
 <br><br>
 
