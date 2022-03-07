@@ -96,6 +96,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 
 ### Level 1
 
+- [나머지가 1이 되는 수 찾기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/나머지가1이되는수찾기_JS.md)
 - [최소직사각형](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/최소직사각형_JS.md)
 - [신고 결과 받기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/신고결과받기_JS.md)
 - [로또의 최고 순위와 취저 순위](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/lotto_best_worst_JS.md)
