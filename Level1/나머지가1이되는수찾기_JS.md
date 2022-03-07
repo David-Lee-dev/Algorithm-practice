@@ -3,6 +3,7 @@
 >[문제출처](https://programmers.co.kr/learn/courses/30/lessons/87389)
 
 ## Solution
+```js
 function solution(n) {
   var answer = 1
   while(n % answer != 1){

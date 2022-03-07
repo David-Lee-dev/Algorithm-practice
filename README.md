@@ -96,6 +96,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 
 ### Level 1
 
+- [부족한 금액 계산하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/부족한금액계산하기_JS.md)
 - [나머지가 1이 되는 수 찾기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/나머지가1이되는수찾기_JS.md)
 - [최소직사각형](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/최소직사각형_JS.md)
 - [신고 결과 받기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/신고결과받기_JS.md)
