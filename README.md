@@ -96,6 +96,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 
 ### Level 1
 
+- [같은 숫자는 싫어](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/같은숫자는싫어_JS.md)
 - [[1차]다트 게임](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/[1차]다트게임_JS.md)
 - [[1차]비밀지도](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/[1차]비밀지도_JS.md)
 - [부족한 금액 계산하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/부족한금액계산하기_JS.md)
