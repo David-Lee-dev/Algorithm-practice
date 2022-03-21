@@ -96,7 +96,8 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 
 ### Level 1
 
-- [나누어 떨어지는 숫자 배열](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/나누어떨어지는숫자배열_JS.md)
+- [문자열 내 마음대로 정렬하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/나누어떨어지는숫자배열_JS.md)
+- [나누어 떨어지는 숫자 배열](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/문자열내마음대로정렬하기_JS.md)
 - [같은 숫자는 싫어](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/같은숫자는싫어_JS.md)
 - [[1차]다트 게임](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/[1차]다트게임_JS.md)
 - [[1차]비밀지도](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level1/[1차]비밀지도_JS.md)
