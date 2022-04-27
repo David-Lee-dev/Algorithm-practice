@@ -64,11 +64,12 @@
 
 ## Beakjoon - Python
 
-- [2022.04.19. #15990](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b15990.md)
-- [2022.04.19. #16914](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b16914.md)
-- [2022.04.19. #11052](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b11052.md)
-- [2022.04.19. #1463](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b1463.md)
-- [2022.04.19. #2529](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b2529.md)
+- [2022.04.27. #10844](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b10844.md)
+- [2022.04.26. #15990](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b15990.md)
+- [2022.04.25. #16914](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b16914.md)
+- [2022.04.22. #11052](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b11052.md)
+- [2022.04.21. #1463](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b1463.md)
+- [2022.04.20. #2529](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b2529.md)
 - [2022.04.18. #14501](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b14501.md)
 - [2022.04.14. #9095](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b9095.md)
 - [2022.04.14. #1784](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b1784.md)
