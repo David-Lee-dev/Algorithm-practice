@@ -64,7 +64,8 @@
 
 ## Beakjoon - Python
 
-- [2022.05.16. #14499](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b14499.md)
+- [2022.05.19. #14890](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b14890.md)
+- [2022.05.17. #14499](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b14499.md)
 - [2022.05.16. #1149](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b1149.md)
 - [2022.05.11. #15988](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b15988.md)
 - [2022.05.10. #1699](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b1699.md)
