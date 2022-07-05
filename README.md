@@ -208,6 +208,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [123 나라의 숫자](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p12899.md)
 - [삼각 달팽이](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/68645.md)
 - [메뉴 리뉴얼](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/72411.md)
+- [행렬 테두리 회전하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/77485.md)
 
 <br><br>
 
