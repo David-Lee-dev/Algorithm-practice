@@ -186,6 +186,12 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 
 <br><br>
 
+### Level 2
+
+- [오픈채팅방](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p42888.md)
+
+<br><br>
+
 ---
 
 ## SWEA - python
