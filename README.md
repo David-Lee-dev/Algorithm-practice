@@ -205,6 +205,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [타겟 넘버](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/43165.md)
 - [더 맵게](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/42626.md)
 - [쿼드압축 후 개수 세기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/68936.md)
+- [123 나라의 숫자](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p12899.md)
 
 <br><br>
 
