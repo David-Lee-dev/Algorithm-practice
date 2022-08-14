@@ -203,7 +203,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [k진수에서 소수 개수 구하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/92335.md)
 - [전화번호 목록](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/42577.md)
 - [타겟 넘버](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/43165.md)
-- [주차 요금 계산](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/92341.md)
+- [더 맵게](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/42626.md)
 
 <br><br>
 
