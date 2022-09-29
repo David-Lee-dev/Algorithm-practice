@@ -200,6 +200,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [주차 요금 계산](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p92341.md)
 - [양궁대회](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p92342.md)
 - [두 큐 합 같게 만들기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p118667.md)
+- [k진수에서 소수 개수 구하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/92335.md)
 
 <br><br>
 
