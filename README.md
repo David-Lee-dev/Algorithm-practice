@@ -196,6 +196,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [뉴스 클러스터링](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p17677.md)
 - [기능 개발](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p42586.md)
 - [카펫](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p42842.md)
+- [문자열 압축](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p60057.md)
 
 <br><br>
 
