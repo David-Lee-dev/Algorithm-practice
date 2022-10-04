@@ -192,9 +192,10 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [방금그곡](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17683.md)
 - [프린터](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/42587.md)
 - [n^2 배열 자르기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/87390.md)
-- [123 나라의 숫자](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/12899.md)
-- [뉴스 클러스터링](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17677.md)
+- [123 나라의 숫자](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p12899.md)
+- [뉴스 클러스터링](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p17677.md)
 - [기능 개발](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p42586.md)
+- [카펫](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p42842.md)
 
 <br><br>
 
