@@ -191,6 +191,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [오픈채팅방](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p42888.md)
 - [방금그곡](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17683.md)
 - [프린터](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/42587.md)
+- [n^2 배열 자르기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/87390.md)
 
 <br><br>
 
