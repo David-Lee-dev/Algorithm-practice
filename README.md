@@ -189,7 +189,8 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 ### Level 2
 
 - [오픈채팅방](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/p42888.md)
-- [오픈채팅방](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17683.md)
+- [방금그곡](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17683.md)
+- [프린터](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/42587.md)
 
 <br><br>
 
