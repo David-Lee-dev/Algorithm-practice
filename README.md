@@ -211,6 +211,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [행렬 테두리 회전하기](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/77485.md)
 - [후보키](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/42890.md)
 - [n진수 게임](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17687.md)
+- [피로도](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/87946.md)
 
 <br><br>
 
