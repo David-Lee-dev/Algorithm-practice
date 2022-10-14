@@ -212,6 +212,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [후보키](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/42890.md)
 - [n진수 게임](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17687.md)
 - [피로도](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/87946.md)
+- [프렌즈4블록](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17679.md)
 
 <br><br>
 
