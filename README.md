@@ -213,6 +213,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [n진수 게임](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17687.md)
 - [피로도](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/87946.md)
 - [프렌즈4블록](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17679.md)
+- [2개 이하로 다른 비트](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/77885.md)
 
 <br><br>
 
