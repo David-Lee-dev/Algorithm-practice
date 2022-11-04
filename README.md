@@ -216,6 +216,7 @@ Source of problem : [Programmers](https://programmers.co.kr/)
 - [2개 이하로 다른 비트](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/77885.md)
 - [모음 사전](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/84512.md)
 - [[3차] 파일명 정렬](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/17686.md)
+- [다리를 지나는 트럭](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/Level2/42583.md)
 
 <br><br>
 
