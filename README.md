@@ -128,6 +128,7 @@
 - [2021.08.21. #1158](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b1158.md)
 - [2021.08.21. #10773](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b10773.md)
 - [2021.08.23. #2164](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/problems/b2164.md)
+- [2021.08.23. #14425](https://github.com/David-Lee-dev/Algorithm-practice/blob/master/beakjoon/b14425.md)
 
 <br><br>
 
